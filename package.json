@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "http-server": "^14.1.0"
+  },
+  "name": "ejercicio1_modulo2",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "http-server -p 8436"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lailatan/Modulo2_-YoProgramo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lailatan/Modulo2_-YoProgramo/issues"
+  },
+  "homepage": "https://github.com/lailatan/Modulo2_-YoProgramo#readme",
+  "description": ""
+}
